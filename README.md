@@ -1,6 +1,6 @@
-# PilotDC
+# PilotAtlanta
 
-Pilot is excited to be back in DC. This is the website for the event, built with <a href="http://docpad.org">Docpad</a>. 
+The event site for PilotAtlanta, built with docpad.
 
 ## Deploying
 To deploy to the live site (which is stored in the gh-pages branch), simply run
